@@ -1,0 +1,6 @@
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\bin\Debug\dateHacks2.exe.config
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\bin\Debug\dateHacks2.exe
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\bin\Debug\dateHacks2.pdb
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\obj\Debug\dateHacks2.csprojResolveAssemblyReference.cache
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\obj\Debug\dateHacks2.exe
+C:\code\Hack\dateHacks\dateHacks2\dateHacks2\dateHacks2\obj\Debug\dateHacks2.pdb
